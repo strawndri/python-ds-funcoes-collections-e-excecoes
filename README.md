@@ -21,7 +21,7 @@ Projeto de especialização em análise de dados desenvolvido durante a realiza�
 ## Como acessar o projeto?
 
 O projeto foi feito por completo no Google Colaboratory, logo, para acessar a análise, clique no link abaixo:
-- [Projeto no Google Colaboratory]()
+- [Projeto no Google Colaboratory](https://colab.research.google.com/github/strawndri/python-ds-funcoes-collections-e-excecoes/blob/main/Projeto_Python_Data_Science.ipynb)
 
 ## Tecnologias utilizadas
 - [Google Colaboratory](https://colab.research.google.com/): Ambiente de notebook interativo baseado na nuvem;
