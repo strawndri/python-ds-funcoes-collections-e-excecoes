@@ -13,7 +13,7 @@
 
 ## Sobre o projeto
 
-Projeto de especialização em análise de dados desenvolvido durante a realização do curso [Python para Data Science: trabalhando com funções, estruturas de dados e exceções](https://www.alura.com.br/curso-online-python-data-science-funcoes-estruturas-dados-excecoes), ministrado pelo instrutor [Afonso Augusto Rios](https://www.linkedin.com/in/afonsosr2/). Aqui, demos continuidado ao nosso primeiro contato com a linguagem de programação Python e com a sua aplicação voltada à Ciência de Dados.
+Projeto de especialização em análise de dados desenvolvido durante a realização do curso [Python para Data Science: trabalhando com funções, estruturas de dados e exceções](https://www.alura.com.br/curso-online-python-data-science-funcoes-estruturas-dados-excecoes), ministrado pelo instrutor [Afonso Augusto Rios](https://www.linkedin.com/in/afonsosr2/). Aqui, demos continuidade ao nosso primeiro contato com a linguagem de programação Python e com a sua aplicação voltada à Ciência de Dados.
 
 ## Aprendizagens
 
